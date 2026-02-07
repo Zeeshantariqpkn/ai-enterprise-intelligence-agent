@@ -11,6 +11,12 @@ A complete enterprise solution with data upload, real-time processing, cross-dom
 - **Conversational Analytics**: Natural language queries
 - **Executive Dashboard**: KPI visualization and reporting
 
+- 📊 Usage
+-Upload Data: Upload CSV/Excel/JSON files for each business domain
+-Generate Insights: AI analyzes cross-domain correlations
+-Scenario Modeling: Simulate business scenarios
+-Real-Time Monitoring: Track live business events
+
 ## 📋 Installation
 
 ### Prerequisites
